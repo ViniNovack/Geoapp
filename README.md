@@ -104,6 +104,6 @@ A 10-question multiple-choice quiz covering both 2D and 3D geometry:
 
 ## 👥 Team
 
-Developed as a team project at **PUCPR** as part of the *Creative Experience exploring Artificial Intelligence* course.
+Developed as a team project at **PUCPR** as part of the *Computer Science* course.
 
 Made with 💙 by **ViniNovack** and team
